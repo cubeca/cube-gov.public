@@ -1,0 +1,1 @@
+{"id":"chhwvlyzsvlbue5nbret4nfr4jb26dhf4spdwcddtwaz3g7dw2eq","stamp":"2024-08-16T06:29:59.80484941Z","payload":{"op":"account_issue","note":"directive from GitHub issue #392","args":{"amount":{"asset":"plural","quantity":100000},"from":"treasury+issue","to":"user:ashbc"}}}
