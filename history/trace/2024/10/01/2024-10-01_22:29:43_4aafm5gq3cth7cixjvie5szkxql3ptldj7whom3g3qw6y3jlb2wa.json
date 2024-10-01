@@ -1,0 +1,1 @@
+{"id":"4aafm5gq3cth7cixjvie5szkxql3ptldj7whom3g3qw6y3jlb2wa","stamp":"2024-10-01T22:29:43.381904036Z","payload":{"op":"account_issue","note":"directive from GitHub issue #413","args":{"amount":{"asset":"plural","quantity":20},"from":"treasury+issue","to":"user:schoolofcommons"}}}
