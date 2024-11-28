@@ -1,0 +1,1 @@
+{"id":"gwqeepp5uxusn26vk3dgwyrzixzh3xl2q2ufs4kc4zfj4feodr7a","stamp":"2024-11-28T23:41:25.71587267Z","payload":{"op":"account_issue","note":"directive from GitHub issue #432","args":{"amount":{"asset":"plural","quantity":20},"from":"treasury+issue","to":"user:interaccessto"}}}
