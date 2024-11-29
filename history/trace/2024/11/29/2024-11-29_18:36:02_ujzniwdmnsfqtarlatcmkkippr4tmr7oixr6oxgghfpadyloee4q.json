@@ -1,0 +1,1 @@
+{"id":"ujzniwdmnsfqtarlatcmkkippr4tmr7oixr6oxgghfpadyloee4q","stamp":"2024-11-29T18:36:02.219711919Z","payload":{"op":"account_transfer","note":"vote charge for ballot waimea/motion/priority_poll/430","args":{"amount":{"asset":"plural","quantity":0},"from":"user:therealartengine","to":"ballot_escrow:waimea/motion/priority_poll/430"}}}
