@@ -1,0 +1,1 @@
+{"id":"4kmcyrw53oj35qov3oy2rzqgg3thhgeu4t43xhjwn75r35bd2cnq","stamp":"2024-11-29T16:14:30.909138219Z","payload":{"op":"account_issue","note":"directive from GitHub issue #435","args":{"amount":{"asset":"plural","quantity":20},"from":"treasury+issue","to":"user:gabrielhensche"}}}
