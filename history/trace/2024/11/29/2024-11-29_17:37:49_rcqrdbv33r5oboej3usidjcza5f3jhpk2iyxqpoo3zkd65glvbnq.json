@@ -1,0 +1,1 @@
+{"id":"rcqrdbv33r5oboej3usidjcza5f3jhpk2iyxqpoo3zkd65glvbnq","stamp":"2024-11-29T17:37:49.300855201Z","payload":{"op":"account_issue","note":"directive from GitHub issue #445","args":{"amount":{"asset":"plural","quantity":20},"from":"treasury+issue","to":"user:taoief"}}}

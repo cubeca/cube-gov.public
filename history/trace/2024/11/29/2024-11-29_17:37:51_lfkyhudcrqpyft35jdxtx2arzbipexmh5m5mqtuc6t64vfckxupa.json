@@ -1,0 +1,1 @@
+{"id":"lfkyhudcrqpyft35jdxtx2arzbipexmh5m5mqtuc6t64vfckxupa","stamp":"2024-11-29T17:37:51.499267594Z","payload":{"op":"account_issue","note":"directive from GitHub issue #443","args":{"amount":{"asset":"plural","quantity":20},"from":"treasury+issue","to":"user:chrishaehnel"}}}

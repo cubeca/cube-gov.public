@@ -1,0 +1,1 @@
+{"id":"nkgbzfe6kjw6q3q33qfkyzeswhvrzihktaeksixgg2obphof7sfa","stamp":"2024-11-29T17:37:48.218690829Z","payload":{"op":"account_issue","note":"directive from GitHub issue #446","args":{"amount":{"asset":"plural","quantity":20},"from":"treasury+issue","to":"user:arcac-admin"}}}
