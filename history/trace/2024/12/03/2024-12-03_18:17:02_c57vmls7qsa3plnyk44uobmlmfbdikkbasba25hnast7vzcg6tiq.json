@@ -1,0 +1,1 @@
+{"id":"c57vmls7qsa3plnyk44uobmlmfbdikkbasba25hnast7vzcg6tiq","stamp":"2024-12-03T18:17:02.701415705Z","payload":{"op":"account_issue","note":"directive from GitHub issue #450","args":{"amount":{"asset":"plural","quantity":20},"from":"treasury+issue","to":"user:patriciagoh-external"}}}
