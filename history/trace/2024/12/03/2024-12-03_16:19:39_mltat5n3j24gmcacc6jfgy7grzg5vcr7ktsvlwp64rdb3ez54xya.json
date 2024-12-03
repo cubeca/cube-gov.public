@@ -1,0 +1,1 @@
+{"id":"mltat5n3j24gmcacc6jfgy7grzg5vcr7ktsvlwp64rdb3ez54xya","stamp":"2024-12-03T16:19:39.765746478Z","payload":{"op":"account_transfer","note":"vote charge for ballot waimea/motion/priority_poll/416","args":{"amount":{"asset":"plural","quantity":4},"from":"user:arcac-admin","to":"ballot_escrow:waimea/motion/priority_poll/416"}}}
