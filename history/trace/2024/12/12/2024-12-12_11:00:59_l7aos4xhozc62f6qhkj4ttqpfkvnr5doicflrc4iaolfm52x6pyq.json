@@ -1,0 +1,1 @@
+{"id":"l7aos4xhozc62f6qhkj4ttqpfkvnr5doicflrc4iaolfm52x6pyq","stamp":"2024-12-12T11:00:59.343994544Z","payload":{"op":"account_transfer","note":"vote charge for ballot waimea/motion/priority_poll/407","args":{"amount":{"asset":"plural","quantity":12},"from":"user:ashbc","to":"ballot_escrow:waimea/motion/priority_poll/407"}}}
