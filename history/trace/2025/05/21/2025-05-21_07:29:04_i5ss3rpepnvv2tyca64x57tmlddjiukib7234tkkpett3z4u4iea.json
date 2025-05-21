@@ -1,0 +1,1 @@
+{"id":"i5ss3rpepnvv2tyca64x57tmlddjiukib7234tkkpett3z4u4iea","stamp":"2025-05-21T07:29:04.62614183Z","payload":{"op":"account_transfer","note":"refund from cancelling ballot waimea/motion/priority_poll/407","args":{"amount":{"asset":"plural","quantity":4},"from":"ballot_escrow:waimea/motion/priority_poll/407","to":"user:patriciagoh-external"}}}

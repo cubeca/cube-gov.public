@@ -1,0 +1,1 @@
+{"id":"zzxr7sslurxsyyrbisw676iwj6ga22dqw7nzivtx2ekzfniond3a","stamp":"2025-05-21T07:29:04.627650532Z","payload":{"op":"account_transfer","note":"refund from cancelling ballot waimea/motion/priority_poll/417","args":{"amount":{"asset":"plural","quantity":4},"from":"ballot_escrow:waimea/motion/priority_poll/417","to":"user:arcac-admin"}}}

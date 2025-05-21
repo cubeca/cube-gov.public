@@ -1,0 +1,1 @@
+{"id":"hlu7ck7nqmbdci5rvkemm3jkg2sfkfxdqy3e5qwt56v6auucumwq","stamp":"2025-05-21T07:29:04.627520328Z","payload":{"op":"account_transfer","note":"refund from cancelling ballot waimea/motion/priority_poll/417","args":{"amount":{"asset":"plural","quantity":4},"from":"ballot_escrow:waimea/motion/priority_poll/417","to":"user:therealartengine"}}}
